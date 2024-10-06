@@ -33,7 +33,7 @@ li {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu:focus {
+.menu:hover {
   color: #404bbf;
 }
 
@@ -50,11 +50,11 @@ li {
 }
 
 a:hover {
-  color: #404bb;
+  color: #404bbf;
 }
 
 a:active {
-  color: #404bb;
+  color: #404bbf;
 }
 
 .section-title {
@@ -182,5 +182,9 @@ a:active {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #f4f4fd;
+}
+
+.logo-web-footer {
   color: #f4f4fd;
 }
